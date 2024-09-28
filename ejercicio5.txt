@@ -1,0 +1,5 @@
+1 INICIO
+2 LEER gf
+3 c<- (gf-32)*5/9
+4 MOSTRAR c
+5 FIN

@@ -1,0 +1,8 @@
+1. Inicio
+2. LEER "base"
+3. LEER "altura"
+4. PERIMETRO<--("base"+"altura)*2
+5. MOSTRAR PERIMETRO
+6. AREA<--("base"*"altura")
+7. MOSTRAR AREA
+8. Fin

@@ -1,0 +1,12 @@
+1 Inicio
+2 LEER n1
+3 LEER n2
+4 suma<- n1+n2
+5 resta<- n1-n2
+6 division<- n1/n2
+7 multi<- n1*n2
+8 MOSTRAR suma
+9 MOSTRAR resta
+10 MOSTRAR division
+11 MOSTRAR multi
+12 Fin

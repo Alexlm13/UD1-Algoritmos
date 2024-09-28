@@ -1,0 +1,7 @@
+1 INICIO
+2 LEER n1
+3 LEER n2
+4 LEER n3
+5 suma<- (n1+n2+n3)/3
+6 MOSTRAR suma
+7 FIN

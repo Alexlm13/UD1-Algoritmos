@@ -1,0 +1,6 @@
+1 INICIO
+2 LEER h1
+3 LEER h2
+4 hip<- √(h1^2+h2^2)
+5 MOSTRAR rc
+6 FIN

@@ -1,0 +1,6 @@
+1 INICIO
+2 LEER m
+3 h<- trunc (m/60)
+4 hC<- m % 60
+5 MOSTRAR h ":" hC
+6 FIN
